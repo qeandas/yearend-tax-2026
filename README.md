@@ -5,4 +5,3 @@
 - 페이지: https://qeandas.github.io/yearend-tax-2026/
 - 입력값은 브라우저 안에서만 계산되며 어디로도 전송되지 않습니다.
 - `qeandas/service` 프로젝트와는 별개의 작업입니다.
-- 수정한 파일을 올리는 방법: [HOW-TO-UPDATE.md](HOW-TO-UPDATE.md)
